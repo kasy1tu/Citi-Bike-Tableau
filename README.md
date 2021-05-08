@@ -1,5 +1,7 @@
 # Citi-Bike-Tableau
 
+Please see the visualizations in the Tableau file and the zip folder for the data. 
+
 In the Citi Bike Story in the Tableau file, we analyzed and compared the phenomenons between male and female bikers, the most popular start and end locations, and other demographics such as age. 
 
 In the first slide (Male vs. Female in Distance), we observe that "Unknown" is the most indicated category with "Male" following behind it. However, females averaged a higher trip duration than males and that may be explained by the physical differences between the two sex. On the otherhand, we may also not have enough data to make a conclusion due to the large amount of "Unknown" data. 
